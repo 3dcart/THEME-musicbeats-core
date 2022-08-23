@@ -23,6 +23,9 @@ body {
 .page-content {
 	flex: 1 0 auto;
 }
+.homeCarousel .slides>li {
+    z-index: 0 !important;
+}
 footer {
 	flex-shrink: 0;
 }
